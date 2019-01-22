@@ -41,7 +41,7 @@
 
 @include breakpoint-sm {
     .sidebar {
-        lost-column: 4/12;
+        lost-column: 5/12;
         &__inner {
             padding: 30px 20px 0;
             &:after {
