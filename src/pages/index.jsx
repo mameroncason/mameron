@@ -23,7 +23,8 @@ class IndexRoute extends React.Component {
           </Helmet>
           <Sidebar {...this.props} />
           <div className="content">
-            <div className="content__inner">{items}</div>
+            <div className="content__inner">Lesson&apos;s learned coming soon!</div>
+            /*<div className="content__inner">{items}</div>*/
           </div>
         </div>
       </Layout>
