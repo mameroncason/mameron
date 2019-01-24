@@ -4,8 +4,8 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://mameroncason.com',
-    title: 'Cameron Mason - My Thoughts',
-    subtitle: 'I like to build, things & here is my portfolio of learnings, enjoy!',
+    title: 'Cameron Mason',
+    subtitle: 'I like to build, things & this is my portfolio of lessons learned along the way. Enjoy! 🍻',
     copyright: '© Cameron Mason 2019',
     disqusShortname: '',
     menu: [
