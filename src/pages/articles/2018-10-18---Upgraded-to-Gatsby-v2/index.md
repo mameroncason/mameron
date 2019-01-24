@@ -1,13 +1,13 @@
 ---
-title: Upgraded to Gatsby v2
-date: "2018-10-18T16:51:00.000Z"
+title: Do not fear generalism
+date: "2019-01-29T16:51:00.000Z"
 layout: post
 draft: false
-path: "/posts/upgraded-to-gatsby-v2/"
-category: "Gatsby"
+path: "/posts/do-not-fear-generalism/"
+category: "Roles"
 tags:
-  - "Gatsby"
-  - "Web Development"
+  - "Generalist"
+  - "Specialist"
 description: "This starter has been forked and upgraded to Gatsby v2"
 ---
 
