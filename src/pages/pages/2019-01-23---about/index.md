@@ -4,10 +4,8 @@ layout: page
 path: "/about"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I'm fotunate to have been the first employee at Remodel Health, a health benefits platform in Indianapolis. I've served in various roles at Remodel Health, and currently lead our product and technology efforts.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+I'm married to Laura and dad to Pumba & Jetta, our goldendoodles. We reside in Indy's best historic community, Irvington. We've visited 18 of 60 National Parks. I enjoy seeing home projects come to life and coach elementary girls basketball.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+![I'm married to Laura and dad to Pumba & Jetta, our goldendoodles. We reside in Indy's best historic community, Irvington. We've visited 18 of 60 National Parks. I enjoy seeing home projects come to life and coach elementary girls basketball.](./1.jpg)
