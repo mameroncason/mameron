@@ -38,6 +38,7 @@ class Post extends React.Component {
         <Link className="post__readmore" to={slug}>
           Read
         </Link>
+        <hr/>
       </div>
     )
   }
