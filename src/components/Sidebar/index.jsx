@@ -13,6 +13,7 @@ class Sidebar extends React.Component {
       author,
       subtitle,
       copyright,
+      madeby,
       menu,
     } = this.props.data.site.siteMetadata
     const isHomePage = get(location, 'pathname', '/') === '/'
