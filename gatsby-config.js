@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://mameroncason.com',
     title: 'Cameron Mason - My Thoughts',
-    subtitle: 'I like to build, things.',
+    subtitle: 'I like to build, things & here is my portfolio of learnings, enjoy!',
     copyright: '© Cameron Mason 2019',
     disqusShortname: '',
     menu: [
