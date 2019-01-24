@@ -10,11 +10,11 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Thoughts',
+        label: 'My thoughts',
         path: '/',
       },
       {
-        label: 'About ',
+        label: 'About me ',
         path: '/about/',
       },
     ],
