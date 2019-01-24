@@ -17,10 +17,6 @@ module.exports = {
         label: 'About ',
         path: '/about/',
       },
-      {
-        label: 'Contact me',
-        path: '/contact/',
-      },
     ],
     author: {
       name: 'Cameron Mason',
