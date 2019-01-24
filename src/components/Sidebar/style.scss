@@ -27,7 +27,8 @@
             }
         }
         &-subtitle {
-            color: $color-primary;
+            color: $color-base;
+            font-weight: 500;
             @include line-height(1);
             @include margin-bottom(1);
         }
