@@ -13,6 +13,15 @@ class Links extends React.Component {
     return (
       <div className="links">
         <ul className="links__list">
+        <li className="links__list-item">
+            <a
+              href={`https://www.linkedin.com/in/cameronryanmason/${links.linkedin}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="icon-linkedin" />
+            </a>
+          </li>
           <li className="links__list-item">
             <a
               href={`https://twitter.com/mameroncason/${links.twitter}`}
