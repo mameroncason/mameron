@@ -53,11 +53,7 @@ class Sidebar extends React.Component {
           <div>
             <Menu data={menu} />
             <Links data={author} />
-          </div>
-          <div style="font-size: $typographic-small-font-size">
-          <p>Made with<a href="https://reactjs.org/" target="_blank"> React. </a>Hosted on<a href="https://www.netlify.com/" target="_blank"> Netlify.</a></p>
-          </div>
-          <div>
+            <p className="sidebar__madeby">{madeby}</p>
             <p className="sidebar__copyright">{copyright}</p>
           </div>
         </div>

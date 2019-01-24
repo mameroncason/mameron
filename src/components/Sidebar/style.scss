@@ -37,6 +37,10 @@
         color: lighten($color-base, 50%);
         font-size: $typographic-small-font-size;
     }
+    &__madeby {
+        color: lighten($color-base, 50%);
+        font-size: $typographic-small-font-size;
+    }
 }
 
 @include breakpoint-sm {
