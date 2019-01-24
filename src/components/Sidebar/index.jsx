@@ -55,6 +55,9 @@ class Sidebar extends React.Component {
             <Links data={author} />
             <p className="sidebar__copyright">{copyright}</p>
           </div>
+          <div>
+            <p>test</p>
+          </div>
         </div>
       </div>
     )
