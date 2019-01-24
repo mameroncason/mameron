@@ -5,16 +5,16 @@ module.exports = {
   siteMetadata: {
     url: 'https://mameroncason.com',
     title: 'Cameron Mason',
-    subtitle: 'I like to build, things & this is my portfolio of lessons learned along the way. Enjoy! 🍻',
+    subtitle: 'I like to build things that enhance the customer experience, produce meaningful business outcomes, and improve human productivity. Building requires learning, and this is my portfolio of lessons aquired along the way. Enjoy 🍻',
     copyright: '© Cameron Mason 2019',
     disqusShortname: '',
     menu: [
       {
-        label: 'My thoughts',
+        label: '📚 Lessons',
         path: '/',
       },
       {
-        label: 'About me ',
+        label: '👨🏼‍🚀 About',
         path: '/about/',
       },
     ],
