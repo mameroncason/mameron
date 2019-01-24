@@ -7,7 +7,7 @@ module.exports = {
     title: 'Cameron Mason',
     subtitle: 'I like to build things that enhance the customer experience, produce meaningful business outcomes, and improve human productivity. Building requires learning, and this is my portfolio of lessons aquired along the way. Enjoy 🍻',
     copyright: '© Cameron Mason 2019',
-    madeby: 'Made with<a href="https://reactjs.org/" target="_blank"> React. </a>Hosted on<a href="https://www.netlify.com/" target="_blank"> Netlify.</a>'
+    madeby: 'Made with<a href="https://reactjs.org/" target="_blank"> React. </a>Hosted on<a href="https://www.netlify.com/" target="_blank"> Netlify.</a>',
     disqusShortname: '',
     menu: [
       {
