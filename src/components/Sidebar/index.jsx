@@ -24,8 +24,8 @@ class Sidebar extends React.Component {
           <img
             src={profilePic}
             className="sidebar__author-photo"
-            width="150"
-            height="150"
+            width="200"
+            height="200"
             alt={author.name}
           />
         </Link>
