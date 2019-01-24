@@ -18,9 +18,11 @@
                 &:hover,
                 &:focus {
                     color: $color-primary;
+                    font-weight: 500;
                 }
                 &--active {
                     color: $color-primary;
+                    font-weight: 500;
                 }
             }
         }
