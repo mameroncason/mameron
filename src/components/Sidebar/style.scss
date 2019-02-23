@@ -12,6 +12,7 @@
             display: inline-block;
             margin-bottom: 0;
             background-clip: padding-box;
+            position: center;
         }
         &-title {
             font-size: $typographic-base-font-size * 1.25;
