@@ -9,7 +9,7 @@ module.exports = {
     copyright: '© Cameron Mason 2019',
     madeby: 'Made with<a href="https://reactjs.org/"> React. </a>Hosted on<a href="https://www.netlify.com/"> Netlify.</a>',
     disqusShortname: '',
-    menu: [
+    /*menu: [
       {
         label: '📚 Lessons',
         path: '/',
@@ -18,7 +18,7 @@ module.exports = {
         label: '👨🏼‍🚀 About',
         path: '/about/',
       },
-    ],
+    ],*/
     author: {
       name: 'Cameron Mason',
       email: '#',
